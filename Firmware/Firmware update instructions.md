@@ -1,0 +1,1 @@
+unZip the .bin file. 
