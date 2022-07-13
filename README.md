@@ -1,5 +1,3 @@
-# COLORADO 1 QUAD
-
 <img src="https://www.chauvetprofessional.com/wp-content/uploads/2018/09/prod_colorado_1_quad_left.jpg" width=150 >
 
 1.  Download the latest Zip release. 
